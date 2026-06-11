@@ -1,4 +1,4 @@
-Mhis was a excuse to get something to compile to the Nintendo 64 Disk Drive and is pretty much unplayable outside of a proof of concept debug menu I put together in a week.
+This was a excuse to get something to compile to the Nintendo 64 Disk Drive and is pretty much unplayable outside of a proof of concept debug menu I put together in a week.
 Currently you'll need to provide your own data.win and place it within Assets/ and package it with it there. Audio implementation was started but is very buggy. Textures are even buggier. Rooms don't formally work yet and crashes are frequent. 
 
 Might revisit this one day but wanted to post this for record-keeping sake.
