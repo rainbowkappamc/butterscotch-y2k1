@@ -1,1 +1,0 @@
-N64, N64DD port screens and specific changes for "5th / 6th generational quirks"
