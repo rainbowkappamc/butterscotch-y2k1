@@ -1,0 +1,16 @@
+{
+    "lazyLoadRooms": false,
+    "eagerlyLoadedRooms": [],
+
+    "disabledObjects": [],
+    "debugOverlayEnabled": false,
+
+    "gamepad": {
+        "enabled": false
+    },
+
+    "controller1Mappings": {},
+    "controller2Mappings": {},
+
+    "fileSystem": {}
+}

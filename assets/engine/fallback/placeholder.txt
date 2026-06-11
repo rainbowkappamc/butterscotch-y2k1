@@ -1,0 +1,5 @@
+in the main.c engine loop these main states drive the actual game or in this case port.
+
+INIT -> IDLE 
+
+During the init state dummy.h is shown in the background - if assets or the engine fails to get pass the asset setup / compilation state (INIT), this image is the only thing that ever will visually show as the engine itself has stalled/halted indefinitely. This isn't a hard crash as much as a engine softlock because something has prevented the global engine FSM to get to its' idle (main game loop) state. As soon as Idle happens, dummy.h is unloaded completely and is not longer unavailable in normal play. 
